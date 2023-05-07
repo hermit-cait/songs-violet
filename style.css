@@ -50,7 +50,7 @@ footer p {
   text-align: center;
   font-size: 0.9rem;
   margin-top: 3rem;
-  padding: 0.5rem;
+  padding: 1rem 0.5rem 0.5rem 0.5rem;
 }
 
 /* MOBILE IMAGE STYLES */
@@ -97,7 +97,7 @@ br.desktop {
 }
 
 footer {
-  height: 4rem;
+  height: 5rem;
 }
 
 /* MEDIA QUERIES FOR TABLETS */
