@@ -222,7 +222,7 @@ p.alignRight {
   .gridContainer {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    grid-template-rows: repeat(136, 2rem);
+    grid-template-rows: repeat(136, 5vh);
   }
 
   /* div {
