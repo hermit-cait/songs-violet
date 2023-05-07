@@ -67,7 +67,6 @@ img {
 
 .quote {
   background: var(--bg-colour-secondary);
-  margin-top: 1rem;
   padding: 0.1rem 0.5rem 0.5rem 0.5rem;
 }
 
@@ -77,7 +76,6 @@ img {
 
 .review {
   background: var(--bg-colour-accent);
-  margin-top: 1rem;
   padding: 0.1rem 0.5rem 0.5rem 0.5rem;
 }
 
