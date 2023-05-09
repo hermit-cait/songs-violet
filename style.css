@@ -51,6 +51,9 @@ p.influences {
   color: var(--text-mobile-colour-accent);
 }
 
+a {
+  color: var(--text-desktop-colour-secondary);
+}
 
 /* MOBILE IMAGE STYLES */
 
@@ -88,8 +91,8 @@ footer {
   width: 15rem;
   background: var(--bg-colour-accent);
   margin: 0 auto;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
   display: flex;
   justify-content: center;
   align-items: center;
