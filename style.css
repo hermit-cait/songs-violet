@@ -166,8 +166,7 @@ body {
     text-align: center;
   }
 
-  p,
-  p.influences {
+  p {
     font-size: 1rem;
     color: var(--text-desktop-colour-primary)
   }
