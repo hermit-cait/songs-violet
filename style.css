@@ -44,6 +44,7 @@ p.influences {
 
 .quote p {
   color: var(--text-mobile-colour-secondary);
+  text-align: right;
 }
 
 .review p {
@@ -83,7 +84,7 @@ img {
 }
 
 footer {
-  height: 5rem;
+  height: 2rem;
   width: 15rem;
   background: var(--bg-colour-accent);
   margin: 0 auto;
