@@ -38,10 +38,6 @@ p {
   font-size: 1.15rem;
 }
 
-p.influences {
-  font-size: 1.5rem;
-}
-
 .quote p {
   color: var(--text-mobile-colour-secondary);
   text-align: right;
