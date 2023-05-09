@@ -195,6 +195,10 @@ body {
     justify-content: center;
     align-items: center;
   }
+  
+  .review {
+    padding: 0 1rem 0 1rem; 
+  }
 
   div.quote,
   div.review {
@@ -203,10 +207,6 @@ body {
 
   p.textLarge {
     font-size: 1.85rem;
-  }
-
-  .review p.textLarge {
-    color: var(--text-desktop-colour-tertiary);
   }
 
   span.textLight {
