@@ -41,6 +41,7 @@ p.influences {
 
 .quote p {
   color: var(--text-mobile-colour-secondary);
+  text-align: right;
 }
 
 .review p {
@@ -73,7 +74,6 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: right;
 }
 
 .review {
