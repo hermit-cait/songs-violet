@@ -43,7 +43,8 @@ p {
   text-align: right;
 }
 
-.review p {
+.review p,
+span {
   color: var(--text-mobile-colour-accent);
 }
 
